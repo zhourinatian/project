@@ -1,0 +1,299 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2017/4/22
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+; Update Time: 2020/07/20 00:00 (CST China)
+
+; ----------------------Source Code----------------------
+*.github.com
+
+; ----------------------Crypto----------------------
+*.tronscan.org
+*.coinbase.com
+
+; ----------------------Social----------------------
+; <Tumblr>
+*.tumblr.com
+*.umblr.com
+*.tumbex.com
+*.t.co
+*.researchnow.com
+*.betrad.com
+*.cedexis.com
+*.cedexis-test.com
+*.licdn.com
+*.btrll.com
+*.cedexis-radar.net
+*.pinimg.com
+*.vimeo.com
+; </Tumblr>
+*.bdsmlr.com
+*.twitter.com
+*.facebook.com
+*.instagram.com
+*.pixiv.net
+*.pixiv.org
+*.pxixiv.me
+*.flamingmoon.net
+;*.yahoo.com
+;*.yahoo.co.jp
+;*.manroulette.com
+*.plurk.com
+*.fc2.com
+*.yam.com
+*.somee.com
+*.thegay.com
+*.hotgaylist.com
+;*.boyfriendtv.com
+*.newtwink.com
+*.columbian-boys.com
+*.fetlife.com
+*.txxx.com
+*.sss.xxx
+*.line.me
+*.webcamguys.com
+*.gfycat.com
+*.erome.com
+*.gstatic.com
+*.pichunter.com
+*.sleazyfork.org
+*.malechastitylifestyle.net
+*.medleyads.com
+
+
+
+
+; ----------------------Education----------------------
+*.wikipedia.org
+*.torproject.org
+
+; ----------------------Downloader----------------------
+*.kat.cr
+*.torrentdownloads.me
+*.distillvideo.com
+*.mega.co.nz
+*.mega.io
+*.mega.is
+*.mega.nz
+
+
+; ----------------------BBS & Blog----------------------
+*.blogspot.com
+*.jinroukong.com
+*.club1069.com
+*.y-gallery.net
+*.derekdasilva.com
+*.blog.com
+*.j.mp
+*.wikia.com
+*.sakura.ne.jp
+*.fc2.com
+*.fc2cn.com
+;*.csdn.net
+*.tt1069.com
+*.scaffies.nl ;Global Ballbusting Community
+*.lockedmen.net ;LockedMEN
+*.dbnaked.com
+*.kamitora.org
+*.gayforum.org
+*.scaffies.nl
+*.stboy.net
+*.kink.com
+*.houseboy.com
+*.fireden.net
+*.4archive.org
+*.bestmaleblogs.com
+*.reddit.com
+*.redd.it
+*.redditstatic.com
+*.redditmedia.com
+*.gfycat.com
+*.quantserve.com
+*.reddit.com
+*.redditmail.com
+*.demdex.net
+*.embedly.com
+*.universityofanal.com
+*.ds.mk
+*.sissy.eu.org
+handsfreeorgasm.net
+
+
+; ----------------------Shoping----------------------
+*.paypal.com
+*.amazon.com
+*.duga.jp
+
+
+; ----------------------Comics----------------------
+*.nhentai.net
+*.e-hentai.org
+*.ehgt.org
+*.pururin.com
+*.fakku.net
+*.digiket.com
+*.cartoonfreeporn.org
+*.myspace.com
+*.patreon.com
+*.sinnergate.com
+*.luscious.net
+*.band.us
+*.gaybondagefiction.com
+*.hitomi.la
+*.hentai-foundry.com
+*.postimg.org
+*.rule34.xxx
+*.hiccears.com
+*.furaffinity.net
+*.facdn.net
+
+; ---------------------Chastity--------------------
+*.emlalock.com
+*.chastitylocked.com
+*.teamlocked.men
+
+; ----------------------Games----------------------
+*.humplex.com
+*.swfchan.com
+*.comdotgame.com
+*.gayharem.com
+*.faproulette.co
+*.gohanxtrunks.net
+*.projectuniversity.net
+*.ibb.co
+
+
+; ----------------------Media----------------------
+*.crazyshit.com
+*.xtube.com
+*.gaytube.com
+;*.youporngay.com
+*.boy18tube.com
+*.hotgoo.com
+; <mygay>
+*.mygay.xxx
+*.vporn.com
+*.xvideos.com
+*.redtube.com
+;*.dagay.com
+*.tube8.com
+;*.gotgayporn.com
+*.thumbs.gotgayporn.com
+*.drtuber.com
+*.manhub.com
+*.videos.manhubmedia.com
+*.yobt.com
+*.clicksgear.com
+*.xhamster.com
+*.youporngay.com
+*.pornerbros.com
+*.pornhub.com
+*.overthumbs.com
+
+; </mygay>
+;*.cuteboytube.com
+*.coat.co.jp
+*.gaystack.com
+*.gold-gay.com
+;*.sextubespot.com
+cdnimages.sextubespot.com
+*.gaymenring.com
+*.kingtwinks.com
+*.2twinks.net
+*.gay-free-videos.com
+*.gaytube.name
+*.sunporno.com
+;*.18youngtwinks.com
+*.gaycockplus.com
+*.chaturbate.com
+*.rockjockcock.com
+*.eroshare.com
+*.bit.ly
+*.archive.is
+*.ko-video.com
+*.picarto.tv
+*.securedataimages.com
+*.cams.com
+*.camboyslive.com
+*.footprint.net
+*.heavy-r.com
+*.pornmd.com
+*.mensrush.tv
+*.gaytag.net
+*.thisvid.com
+*.doggyboys.com
+*.afreecatv.com
+*.cuteboytube.com
+*.good-gay.com
+*.barepass.com
+*.porn.com
+*.helixstudios.net
+*.redgifs.com
+
+; ----------------------Other----------------------
+*.shadowsocks.org
+*.googleapis.com
+*.ajax.googleapis.com
+*.freebitco.in
+*.pastebin.com
+*.micro-btc.com
+;*.bitcoinaverage.com
+*.w.org
+;*.coinbase.com
+*.cloudflare.com
+*.turbobit.net
+*.mediafire.com
+
+;[E-Coin]
+*.advcash.com
+*.moneypolo.com
+*.wirexapp.com
+*.payeer.com
+*.perfectmoney.is
+*.okpay.com
+
+;[Bitcoin]
+;*.minecloud.io
+*.myreadingmanga.info
+*.evozi.com
+*.apkleecher.com
+*.apk-downloaders.com
+*.yahoo.com
+*.milism.net
+*.gelbooru.com
+*.skrill.com
+*.neteller.com
+
+; ----------------------CDN----------------------
+*.amazonaws.com
+*.pximg.net
+*.dropbox.com
+*.optimecdn.com
+*.ups-media.com
+;*.cdn13.com
+;*.rdtcdn.com
+*.gayasianpornkings.com
+*.gayasiannetwork.com
+*.ypncdn.com
+*.phncdn.com
+;Facebook CDN
+*.fbcdn.net
+;Amazon Image CDN
+*.ssl-images-amazon.com
+;Twitter CDN
+*.twimg.com
+;YAHOO JP
+*.yahoofs.jp
+*.cd-tn.com
+*.pix-cdn.org
+*.adult-empire.com ;Boys Master - Always fresh Gays galleries
+*.trafficfactory.biz
+*.xvideos-cdn.com
+*.ahacdn.me
+*.googletagservices.com
+*.amazon-adsystem.com
+*.googletagmanager.com
+*.hwcdn.net
+*.amplitude.com
+*.s3.amazonaws.com
