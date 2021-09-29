@@ -8,7 +8,7 @@
 ; ----------------------Source Code----------------------
 *.github.com
 
-; ----------------------Crypto----------------------
+; --------------------Cryptocurrency--------------------
 *.binance.org
 *.allnodes.com
 *.tronscan.org
