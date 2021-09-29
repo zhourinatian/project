@@ -9,8 +9,13 @@
 *.github.com
 
 ; ----------------------Crypto----------------------
+*.binance.org
+*.allnodes.com
 *.tronscan.org
 *.coinbase.com
+*.autoshark.finance
+*.u2e-free.online
+*.bnbminer.finance
 
 ; ----------------------Social----------------------
 ; <Tumblr>
