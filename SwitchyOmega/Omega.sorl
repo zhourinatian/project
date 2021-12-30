@@ -5,6 +5,12 @@
 
 ; Update Time: 2021/09/29 18:07 (CST China)
 
+; --------------------Google Service---------------------
+*.google.com
+*.youtube.com
+*.googlevideo.com
+
+
 ; ----------------------Source Code----------------------
 *.github.com
 
