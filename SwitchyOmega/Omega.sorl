@@ -10,6 +10,8 @@
 *.youtube.com
 *.googlevideo.com
 
+; ----------------------VPS Service---------------------
+*.eurobyte.ru
 
 ; ----------------------Source Code----------------------
 *.github.com
