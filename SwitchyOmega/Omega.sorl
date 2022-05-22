@@ -140,7 +140,7 @@
 
 
 ; ----------------------Shoping----------------------
-*.paypal.com
+paypal.com/us/*
 *.amazon.com
 *.duga.jp
 
