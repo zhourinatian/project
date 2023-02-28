@@ -8,6 +8,7 @@
 
 ; --------------------Google Service---------------------
 *.google.com
+*.bing.com
 *.youtube.com
 *.googlevideo.com
 
